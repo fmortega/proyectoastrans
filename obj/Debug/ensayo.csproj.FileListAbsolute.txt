@@ -1,4 +1,3 @@
-D:\Proyectos c#\ensayo\bin\Debug\ensayo.exe.config
 D:\Proyectos c#\ensayo\bin\Debug\ensayo.exe
 D:\Proyectos c#\ensayo\bin\Debug\ensayo.pdb
 D:\Proyectos c#\ensayo\bin\Debug\System.Configuration.ConfigurationManager.dll
@@ -18,3 +17,4 @@ D:\Proyectos c#\ensayo\obj\Debug\ensayo.csproj.CoreCompileInputs.cache
 D:\Proyectos c#\ensayo\obj\Debug\ensayo.csproj.CopyComplete
 D:\Proyectos c#\ensayo\obj\Debug\ensayo.exe
 D:\Proyectos c#\ensayo\obj\Debug\ensayo.pdb
+D:\Proyectos c#\ensayo\bin\Debug\ensayo.exe.config
